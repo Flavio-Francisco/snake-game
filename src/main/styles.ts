@@ -86,7 +86,7 @@ export const styles = StyleSheet.create({
     resizeMode: "cover",
     width: "100%",
     height: "100%",
-    maxWidth: 350, // Ajuste o valor conforme necessário
-    maxHeight: 300, // Ajuste o valor conforme necessário
+    maxWidth: 350,
+    maxHeight: 300,
   },
 });
